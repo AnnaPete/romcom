@@ -7,6 +7,8 @@ In a world where romance novels are read, and churned out at an incredible pace,
 ## Installation Instructions:
 The open-sourced code is located at https://github.com/Speekins/romcom. Fork the repository (top right hand side), and clone to the local machine by copying the SSH key and entering "git clone [SSH Key]" into the machine's terminal to create a local working repository. Open the application in the default internet browser by typing "open index.html" into the terminal.
 
+To visit the site, click on this link: [romcom](https://annapete.github.io/romcom/)
+
 ## Preview of App:
 ![Alt Text](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/37491318-d47c-495e-bd5a-643986b15be6.gif?ClientID=vimeo-core-prod&Date=1662319122&Signature=e2e2fce916f2c1f5726c01f4e979c7c1b14e09d0)
 
